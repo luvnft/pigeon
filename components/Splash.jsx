@@ -60,7 +60,7 @@ function Splash() {
               target="_blank"
             >
               <p className=" hover:text-fb-white">
-                Click here to install Metamask &#129418;
+                Click here to install Metamask 🦊
               </p>
             </Link>
           </div>
