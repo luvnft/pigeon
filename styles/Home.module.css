@@ -143,3 +143,14 @@
 .logo img {
   filter: invert(1);
 }
+
+
+.postButton{
+  background-color: purple;
+  font-weight: 700;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  border-radius: 9999px;
+}
