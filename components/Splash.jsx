@@ -53,14 +53,14 @@ function Splash() {
             />
           </div>
           <div className="text-center text-fb-silver border-t-2 border-fb-gray py-4">
-            <p>Don't have a wallet installed?</p>
+            <p>{"Don't have a wallet installed?"}</p>
             <Link
               href="https://metamask.io/"
               rel="noopener noreferrer"
               target="_blank"
             >
               <p className=" hover:text-fb-white">
-                Click here to install Metamask
+                Click here to install Metamask🦊
               </p>
             </Link>
           </div>
