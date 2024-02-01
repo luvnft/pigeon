@@ -1,40 +1,16 @@
+## About
+
+This is a test version of a decetralized social media application that runs on Polygon's Mumbai testnet.
+You can find the contract address and the smart contract by visiting https://mumbai.polygonscan.com/address/0xeE6588b556b8825d2203a4bF5C34067C857a6F11
+
 ## Getting Started
 
-Create a project using this example:
+To use this application you will need to have a wallet like Metamask and some testnet MATIC.
+You can get this by going to https://mumbaifaucet.com/
 
-```bash
-npx thirdweb create --template next-javascript-starter
-```
+## Features
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+This is a simple social media application where users can post posts, like other users posts and also tip them.
+Additionally users can set a username that is linked with their wallet address and see statistics about
+how many likes, posts, and tips a user has gotten in total.
 
-On `pages/_app.js`, you'll find our `ThirdwebProvider` wrapping your app, this is necessary for our [hooks](https://portal.thirdweb.com/react) and
-[UI Components](https://portal.thirdweb.com/ui-components) to work.
-
-## Environment Variables
-
-To run this project, you will need to add environment variables. Check the `.env.example` file for all the environment variables required and add it to `.env.local` file or set them up on your hosting provider.
-
-## Deploy to IPFS
-
-Deploy a copy of your application to IPFS using the following command:
-
-```bash
-yarn deploy
-```
-
-## Learn More
-
-To learn more about thirdweb and Next.js, take a look at the following resources:
-
-- [thirdweb React Documentation](https://docs.thirdweb.com/react) - learn about our React SDK.
-- [thirdweb JavaScript Documentation](https://docs.thirdweb.com/react) - learn about our JavaScript/TypeScript SDK.
-- [thirdweb Portal](https://docs.thirdweb.com/react) - check our guides and development resources.
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Templates](https://thirdweb.com/templates)
-
-You can check out [the thirdweb GitHub organization](https://github.com/thirdweb-dev) - your feedback and contributions are welcome!
-
-## Join our Discord!
-
-For any questions, suggestions, join our discord at [https://discord.gg/thirdweb](https://discord.gg/thirdweb).
