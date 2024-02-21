@@ -9,14 +9,14 @@ function Navbar() {
   const isOwnProfile = address === walletAddress;
 
   return (
-    <nav className="flex justify-between items-center py-2 bg-fb-dark-gray px-20 border-b-2 border-fb-gray fixed top-0 w-full">
-      <button className="text-2xl font-bold" onClick={() => router.push("/")}>
+    <nav className="flex flex-col md:flex-row justify-between items-center py-2 bg-fb-dark-gray px-4 md:px-20 border-b-2 border-fb-gray fixed top-0 w-full">
+      <button className="text-2xl font-bold md:mr-4" onClick={() => router.push("/")}>
         W3BARS
       </button>
 
-      <div className="absolute left-1/2 transform -translate-x-1/2 flex gap-10 text-xl font-bold text-fb-white">
+      <div className="flex justify-center md:justify-start">
         <button
-          className={`border-b-4 p-4 hover:bg-fb-gray focus:border-b-4 ${
+          className={`md:border-b-4 p-4 hover:bg-fb-gray focus:border-b-4 ${
             router.pathname === "/" ? " border-blue" : " border-fb-dark-gray"
           }`}
           onClick={() => router.push("/")}
@@ -24,7 +24,7 @@ function Navbar() {
           HOME
         </button>
         <button
-          className={`border-b-4 p-4 hover:bg-fb-gray focus:border-b-4 ${
+          className={`md:border-b-4 p-4 hover:bg-fb-gray focus:border-b-4 ${
             isOwnProfile ? "border-blue" : "border-fb-dark-gray"
           }`}
           onClick={() => router.push(`/account/${address}`)}
