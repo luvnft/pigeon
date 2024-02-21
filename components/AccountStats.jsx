@@ -47,7 +47,7 @@ function AccountStats({ walletAddress }) {
             </p>
           </div>
           <div className="text-xl text-fb-white">
-            $LUV
+            TIP
             <p className="flex justify-center mt-4 text-2xl font-bold">
               {matic.toString()}
             </p>

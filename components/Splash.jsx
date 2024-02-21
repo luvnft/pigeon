@@ -23,7 +23,7 @@ function Splash() {
             />
           </div>
           <h1 className="text-center text-4xl font-bold text-fb-white mb-8">
-            W3BARS SOCIAL MEDIA
+            W3BARS
           </h1>
           <div className="flex justify-center mb-8">
             <ConnectWallet
@@ -46,8 +46,8 @@ function Splash() {
               modalTitle={"PigeonPost."}
               modalSize={"wide"}
               welcomeScreen={{
-                title: "Your gateway to a decentralized social netwok",
-                subtitle: "Connect wallet to get started",
+                title: "W3BARS",
+                subtitle: "Promote the LNE [LUV NFT ESTATE] 10x10m block you own on our blockchain social media platform with a What3bars address and connect with potential customers and businesses in a new way.",
               }}
               modalTitleIconUrl={""}
             />
@@ -66,9 +66,9 @@ function Splash() {
           </div>
           <div className="text-center text-fb-silver border-t-2 border-fb-gray pt-4">
             <p>
-              The smart contract is deployed to the
+              W3BARS is a blockchain social media platform on
               <br />
-              Mumbai testnet. To get some testnet $MATIC
+              Mumbai testnet. Stand on your business. Free $MATIC
             </p>
             <Link
               href="https://mumbaifaucet.com/"
