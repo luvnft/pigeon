@@ -23,7 +23,7 @@ function Splash() {
             />
           </div>
           <h1 className="text-center text-4xl font-bold text-fb-white mb-8">
-            ///W3BARS SOCIAL MEDIA
+            W3BARS SOCIAL MEDIA
           </h1>
           <div className="flex justify-center mb-8">
             <ConnectWallet
