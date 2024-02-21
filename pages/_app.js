@@ -13,13 +13,13 @@ const activeChain = "mumbai";
 function MyApp({ Component, pageProps }) {
   return (
     <ThirdwebProvider
-      activeChain={activeChain}
+      activeChain={8001}
       clientId={process.env.NEXT_PUBLIC_TEMPLATE_CLIENT_ID}
       supportedWallets={[metamaskWallet(), coinbaseWallet(), trustWallet()]}
     >
       <Layout>
         <Head>
-          <title>PigeonPost</title>
+          <title>W3BARS</title>
           <meta name="description" content="Decentralized social media app" />
           <link rel="icon" href="/favicon.ico" />
         </Head>

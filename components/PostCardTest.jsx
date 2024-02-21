@@ -95,7 +95,7 @@ function PostCardTest({ walletAddress, tweet, tweetId, timestamp }) {
               color: "white",
             }}
           >
-            Like
+            LUV
           </Web3Button>
         </div>
         <div className="m-auto w-full hover:bg-fb-gray rounded-lg ">
@@ -103,7 +103,7 @@ function PostCardTest({ walletAddress, tweet, tweetId, timestamp }) {
             className="m-auto w-full p-3 text-white"
             onClick={() => setModalOpen(true)}
           >
-            Tip
+            $LUV
           </button>
           {isModalOpen && (
             <div className="fixed inset-0 z-50 flex items-center justify-center overflow-x-hidden overflow-y-auto outline-none focus:outline-none">
@@ -118,7 +118,7 @@ function PostCardTest({ walletAddress, tweet, tweetId, timestamp }) {
                   </button>
                   <div className="mt-4">
                     <p className=" text-center text-lg text-fb-white px-4 pt-2">
-                      How much would you like to tip in MATIC?
+                      How much MATIC ONE $LUV would you like to spread?
                     </p>
                     <div className="flex justify-center my-6">
                       <Image
@@ -165,7 +165,7 @@ function PostCardTest({ walletAddress, tweet, tweetId, timestamp }) {
                           color: "white",
                         }}
                       >
-                        Tip
+                        $LUV
                       </Web3Button>
                     </div>
                   </div>

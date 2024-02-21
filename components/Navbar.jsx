@@ -11,7 +11,7 @@ function Navbar() {
   return (
     <nav className="flex justify-between items-center py-2 bg-fb-dark-gray px-20 border-b-2 border-fb-gray fixed top-0 w-full">
       <button className="text-2xl font-bold" onClick={() => router.push("/")}>
-        PigeonPost.
+        ///
       </button>
 
       <div className="absolute left-1/2 transform -translate-x-1/2 flex gap-10 text-xl font-bold text-fb-white">
@@ -21,7 +21,7 @@ function Navbar() {
           }`}
           onClick={() => router.push("/")}
         >
-          Home
+          HOME
         </button>
         <button
           className={`border-b-4 p-4 hover:bg-fb-gray focus:border-b-4 ${
@@ -29,7 +29,7 @@ function Navbar() {
           }`}
           onClick={() => router.push(`/account/${address}`)}
         >
-          Profile
+          IAM
         </button>
       </div>
 

@@ -7,7 +7,7 @@ function Splash() {
   return (
     <>
       <Head>
-        <title>PigeonPost</title>
+        <title>W3BARS</title>
         <meta name="description" content="Decentralized social media app" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -23,7 +23,7 @@ function Splash() {
             />
           </div>
           <h1 className="text-center text-4xl font-bold text-fb-white mb-8">
-            Get started!
+            ///W3BARS SOCIAL MEDIA
           </h1>
           <div className="flex justify-center mb-8">
             <ConnectWallet
@@ -68,7 +68,7 @@ function Splash() {
             <p>
               The smart contract is deployed to the
               <br />
-              Mumbai testnet. To get some testnet MATIC
+              Mumbai testnet. To get some testnet $MATIC
             </p>
             <Link
               href="https://mumbaifaucet.com/"
