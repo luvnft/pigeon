@@ -35,19 +35,19 @@ function AccountStats({ walletAddress }) {
       ) : (
         <div className="flex justify-between mx-20">
           <div className="text-xl text-fb-white">
-            Posts
+            POSTS
             <p className="flex justify-center mt-4 text-2xl font-bold">
               {totalPosts.toNumber()}
             </p>
           </div>
           <div className="text-xl text-fb-white">
-            Likes
+            LUVS
             <p className="flex justify-center mt-4 text-2xl font-bold">
               {totalLikes.toNumber()}
             </p>
           </div>
           <div className="text-xl text-fb-white">
-            Tips
+            $LUV
             <p className="flex justify-center mt-4 text-2xl font-bold">
               {matic.toString()}
             </p>
