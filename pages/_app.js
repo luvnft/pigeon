@@ -13,7 +13,7 @@ const activeChain = "mumbai";
 function MyApp({ Component, pageProps }) {
   return (
     <ThirdwebProvider
-      activeChain={8001}
+      activeChain={activeChain}
       clientId={process.env.NEXT_PUBLIC_TEMPLATE_CLIENT_ID}
       supportedWallets={[metamaskWallet(), coinbaseWallet(), trustWallet()]}
     >
