@@ -8,7 +8,7 @@ function Splash() {
     <>
       <Head>
         <title>W3BARS</title>
-        <meta name="description" content="Decentralized social media app" />
+        <meta name="W3BARS" content="A blockchain social media dapp for Tokenopoly real estate LNEs." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <div className="h-screen flex items-center justify-center">
@@ -47,13 +47,15 @@ function Splash() {
               modalSize={"wide"}
               welcomeScreen={{
                 title: "W3BARS",
-                subtitle: "Promote the LNE [LUV NFT ESTATE] 3Mx3M block you own on our blockchain social media platform with a What3bars address and connect with potential customers and businesses in a new way.",
+                subtitle: "Promote the LNE [LUV NFT ESTATE] 3x3m block you own on a blockchain social media platform with a What3bars address and connect with potential customers and businesses in a new way.",
               }}
               modalTitleIconUrl={""}
             />
           </div>
           <div className="text-center text-fb-silver border-t-2 border-fb-gray py-4">
             <p style={{ paddingTop: '10px' }}>Don't have a wallet installed?</p>
+            <p>{"Don't have a wallet installed?"}</p>
+            <br></br>
             <Link
               href="https://metamask.io/"
               rel="noopener noreferrer"
