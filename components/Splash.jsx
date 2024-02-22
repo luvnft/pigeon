@@ -60,25 +60,19 @@ function Splash() {
               target="_blank"
             >
               <p className=" hover:text-fb-white">
-                Click here to install Metamask🦊
+              1️⃣ Setup Metamask🦊 wallet
               </p>
-            </Link>
-          </div>
+              </Link>
+              <p style={{ paddingTop: '10px' }}>Connect your Metamask🦊 to the Mumbai Testnet network <a href="https://chainlist.org/chain/80001?testnets=true" target="_blank" rel="noopener noreferrer" className="hover:text-fb-white"><b>here</b></a></p>
+              <p style={{ paddingTop: '10px' }}>Fund your wallet with 🆓 <a href="https://mumbaifaucet.com/" target="_blank" rel="noopener noreferrer" className="hover:text-fb-white"><b>$MATIC</b></a></p>
+              </div>
           <div className="text-center text-fb-silver border-t-2 border-fb-gray pt-4">
-            <p>
-              W3BARS is a social media platform on the Polygon (Mumbai testnet) blockchain
-              for tokenized RWA (real world assets) mapped the Web5 worldwide 10M x 10M 
-              block address system called ///WHAT.3.BARS LNE (LUV NFT ESTATE). Stand on the 
-              business that you own.  🆓
-            </p>
-            <Link
-              href="https://mumbaifaucet.com/"
-              rel="noopener noreferrer"
-              target="_blank"
-            >
-              <p className=" hover:text-fb-white"><b>$MATIC</b></p>
-            </Link>
-          </div>
+              <p>
+                Explore and post tokenized <a href="https://what3words.com/" target="_blank"><strong>What3words</strong></a> 
+                locations on What3bars social media platform built on the Polygon testnet Mumbai blockchain. The new worldwide 
+                blockchain address system you own is ///WHAT.3.BARS LNE (LUV NFT ESTATE). Tokenize a LNE <a href="https://linkr.ee/maticluv" target="_blank"><strong>here</strong></a> 
+           </p>
+        </div>
         </div>
       </div>
     </>
