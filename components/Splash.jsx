@@ -47,13 +47,13 @@ function Splash() {
               modalSize={"wide"}
               welcomeScreen={{
                 title: "W3BARS",
-                subtitle: "Promote the LNE [LUV NFT ESTATE] 10x10m block you own on our blockchain social media platform with a What3bars address and connect with potential customers and businesses in a new way.",
+                subtitle: "Promote the LNE [LUV NFT ESTATE] 3Mx3M block you own on our blockchain social media platform with a What3bars address and connect with potential customers and businesses in a new way.",
               }}
               modalTitleIconUrl={""}
             />
           </div>
           <div className="text-center text-fb-silver border-t-2 border-fb-gray py-4">
-            <p>{"Don't have a wallet installed?"}</p>
+            <p style={{ paddingTop: '10px' }}>Don't have a wallet installed?</p>
             <Link
               href="https://metamask.io/"
               rel="noopener noreferrer"
@@ -69,9 +69,9 @@ function Splash() {
               </div>
           <div className="text-center text-fb-silver border-t-2 border-fb-gray pt-4">
               <p>
-                Explore and post tokenized <a href="https://what3words.com/" target="_blank"><strong>What3words</strong></a> 
-                locations on the What3bars social media platform built on the Polygon testnet Mumbai blockchain. What3bars is new worldwide 
-                blockchain address system you own is ///WHAT.3.BARS LNE (LUV NFT ESTATE). Tokenize a LNE <a href="https://linkr.ee/maticluv" target="_blank"><strong>here</strong></a> 
+                What3bars is new worldwide Web5 address system you own ///WHAT.3.BARS LNE (LUV NFT ESTATE). Explore and post tokenized 
+                <a href="https://what3words.com/" target="_blank"><strong>What3words</strong></a> locations on the What3bars social media 
+                platform built on the Polygon testnet Mumbai blockchain. Tokenize a LNE <a href="https://linkr.ee/maticluv" target="_blank"><strong>here</strong></a> 
            </p>
         </div>
         </div>
