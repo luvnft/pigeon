@@ -31,10 +31,12 @@ function Navbar() {
         >
           IAM
         </button>
-      </div>
+       </div>
 
-      <div className="flex items-center">
-        <ConnectWallet />
+        <div className="flex items-center">
+        <div style={{ width: "150px" }}>
+          <ConnectWallet />
+        </div>
       </div>
     </nav>
   );
