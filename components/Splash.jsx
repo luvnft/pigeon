@@ -66,10 +66,10 @@ function Splash() {
           </div>
           <div className="text-center text-fb-silver border-t-2 border-fb-gray pt-4">
             <p>
-              W3BARS is a digital real estate social media platform on the Polygon 
-              (Mumbai testnet) blockchain. Stand on your 10M x 10M ///WHAT.3.BARS LNE 
-              (LUV NFT ESTATE) business that you own. 
-              🆓
+              W3BARS is a social media platform on the Polygon (Mumbai testnet) blockchain
+              for tokenized RWA (real world assets) mapped the Web5 worldwide 10M x 10M 
+              block address system called ///WHAT.3.BARS LNE (LUV NFT ESTATE). Stand on the 
+              business that you own.  🆓
             </p>
             <Link
               href="https://mumbaifaucet.com/"
