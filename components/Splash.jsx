@@ -66,16 +66,16 @@ function Splash() {
           </div>
           <div className="text-center text-fb-silver border-t-2 border-fb-gray pt-4">
             <p>
-              W3BARS is a blockchain social media platform on
-              <br />
-              Mumbai testnet. Stand on your business. Free $MATIC
+              W3BARS is a digital real estate social media platform on the Polygon 
+              (Mumbai testnet) blockchain. Stand on your 10M x 10M ///WHAT.3.BARS LNE 
+              (LUV NFT ESTATE) business that you own. Free $MATIC
             </p>
             <Link
               href="https://mumbaifaucet.com/"
               rel="noopener noreferrer"
               target="_blank"
             >
-              <p className=" hover:text-fb-white">click here</p>
+              <p className=" hover:text-fb-white"><b>$MATIC here</b></p>.
             </Link>
           </div>
         </div>
