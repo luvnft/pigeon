@@ -43,7 +43,7 @@ function Splash() {
                   connectedButtonBg: "#18191a",
                 },
               })}
-              modalTitle={"PigeonPost."}
+              modalTitle={"W3BARS."}
               modalSize={"wide"}
               welcomeScreen={{
                 title: "W3BARS",
