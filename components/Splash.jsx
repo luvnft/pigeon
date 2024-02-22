@@ -63,8 +63,9 @@ function Splash() {
               1️⃣ Setup Metamask🦊 wallet
               </p>
               </Link>
-              <p style={{ paddingTop: '10px' }}>Connect your Metamask🦊 to the Mumbai Testnet network <a href="https://chainlist.org/chain/80001?testnets=true" target="_blank" rel="noopener noreferrer" className="hover:text-fb-white"><b>here</b></a></p>
-              <p style={{ paddingTop: '10px' }}>Fund your wallet with 🆓 <a href="https://mumbaifaucet.com/" target="_blank" rel="noopener noreferrer" className="hover:text-fb-white"><b>$MATIC</b></a></p>
+              <p style={{ paddingTop: '10px' }}>2️⃣ Connect your Metamask🦊 to the Mumbai Testnet network <a href="https://chainlist.org/chain/80001?testnets=true" target="_blank" rel="noopener noreferrer" className="hover:text-fb-white"><b>here</b></a></p>
+              <p style={{ paddingTop: '10px' }}>3️⃣ Fund your wallet with 🆓 <a href="https://mumbaifaucet.com/" target="_blank" rel="noopener noreferrer" className="hover:text-fb-white"><b>$MATIC</b></a></p>
+              <p style={{ paddingTop: '10px' }}>4️⃣ Create a 🆓 wallet (your name).LUV domain <a href="https://name.luvnft.com/" target="_blank" rel="noopener noreferrer" className="hover:text-fb-white"><b>here</b></a></p>
               </div>
           <div className="text-center text-fb-silver border-t-2 border-fb-gray pt-4">
               <p>
