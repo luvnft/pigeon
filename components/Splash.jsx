@@ -71,9 +71,9 @@ function Splash() {
               </div>
           <div className="text-center text-fb-silver border-t-2 border-fb-gray pt-4">
               <p>
-                What3bars is new worldwide Web5 address system you own ///WHAT.3.BARS LNE (LUV NFT ESTATE). Explore and post tokenized 
-                <a href="https://what3words.com/" target="_blank"><strong>What3words</strong></a> locations on the What3bars social media 
-                platform built on the Polygon testnet Mumbai blockchain. Tokenize a LNE <a href="https://linkr.ee/maticluv" target="_blank"><strong>here</strong></a> 
+                What3bars is a social media platform built on the Polygon testnet Mumbai blockchain that allows you to post<br>
+                LUV NFTs mapped to 3Mx3M locations around the world using three-word addresses. Tokenize a location <a href="https://linkr.ee/maticluv" target="_blank"><strong>here</strong></a>
+                ///WHAT.3.BARS LNE (LUV NFT ESTATE) is the new worldwide Web5 address system.
            </p>
         </div>
         </div>
