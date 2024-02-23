@@ -69,11 +69,11 @@ function Splash() {
               <p style={{ paddingTop: '10px' }}>4️⃣ Create a 🆓 wallet (your name).LUV domain <a href="https://name.luvnft.com/" target="_blank" rel="noopener noreferrer" className="hover:text-fb-white"><b>here</b></a></p>
               </div>
           <div className="text-center text-fb-silver border-t-2 border-fb-gray pt-4">
-               <p>
+              <p>
                  What3bars is a social media platform built on the Polygon testnet Mumbai blockchain that allows you to post<br />
                  LUV NFTs mapped to 3Mx3M locations around the world using three-word addresses. Tokenize a location <a href="https://linkr.ee/maticluv" target="_blank"><strong>here</strong></a><br />
-                 ///WHAT.3.BARS LNE is the new worldwide Web5 address system you own. Stand on your business.
-                </p>
+                 {/* WHAT.3.BARS LNE is the new worldwide Web5 address system you own. Stand on your business. */}
+              </p>
         </div>
         </div>
       </div>
