@@ -71,7 +71,7 @@ function Splash() {
           <div className="text-center text-fb-silver border-t-2 border-fb-gray pt-4">
                <p>
                  What3bars is a social media platform built on the Polygon testnet Mumbai blockchain that allows you to post<br />
-                 a LNE (LUV NFT ESTATE) mapped to 3Mx3M locations around the world using three-word addresses. Tokenize a location <a href="https://linkr.ee/maticluv" target="_blank"><strong>here</strong></a><br />
+                 LUV NFTs mapped to 3Mx3M locations around the world using three-word addresses. Tokenize a location <a href="https://linkr.ee/maticluv" target="_blank"><strong>here</strong></a><br />
                  ///WHAT.3.BARS LNE is the new worldwide Web5 address system you own. Stand on your business.
                 </p>
         </div>
