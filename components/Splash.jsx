@@ -53,7 +53,7 @@ function Splash() {
             />
           </div>
           <div className="text-center text-fb-silver border-t-2 border-fb-gray py-4">
-            <p style={{ paddingTop: '10px' }}>Don't have a wallet installed?</p>
+            <p style={{ paddingTop: '10px' }}>Need a free wallet?</p>
             <p>{"Don't have a wallet installed?"}</p>
             <br></br>
             <Link
